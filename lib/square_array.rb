@@ -8,5 +8,5 @@ new_arr = []
   end
 end
 
-numbers = [1,2,3]
-square_array(numbers)
+# numbers = [1,2,3]
+# square_array(numbers)
