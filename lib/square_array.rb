@@ -6,4 +6,3 @@ new_arr = []
     counter += 1
   end
 end
-
