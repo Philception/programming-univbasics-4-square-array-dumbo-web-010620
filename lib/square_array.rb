@@ -4,6 +4,6 @@ new_arr = []
   while counter < array.length do
     puts array[counter] ** 2
     counter += 1
-
+    array[counter] ** 2
   end
 end
